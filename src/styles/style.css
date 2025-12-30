@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Brigends Expanded';
+	src: url('/fonts/BrigendsExpanded.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+.font-brigends {
+	font-family: 'Brigends Expanded', sans-serif;
+	font-weight: normal;
+	letter-spacing: 0.0em;
+	text-transform: uppercase;
+}  
+
